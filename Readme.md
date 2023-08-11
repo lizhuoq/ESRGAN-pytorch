@@ -5,9 +5,9 @@ A PyTorch implementation of ESRGAN. Additionally, a weight file trained for 200 
 - DIV2K  
 - Flickr2K  
 - OutdoorSceneTraining (OST)  
-I'll organize these three datasets, and after removing images with height or width less than 128, I'll compress them into a file called "train_HR.zip.", Download the dataset from [here](https://drive.google.com/file/d/1Jf_4rASdjtedA26Cs3-XJXzQ6T6drpJe/view?usp=sharing) and [here](https://drive.google.com/file/d/1voqyPbb-6yUCqZ2Vc3Z3SSlVrYDhPHSV/view?usp=sharing)(Google Drive Link)
+I'll organize these three datasets, and after removing images with height or width less than 128, I'll compress them into a file called "train_HR.zip.", Download the dataset from [here]()(Baidu Link)(*TODO File uploading*).  
 ## Pytorch Weight file  
-A weight file for a generator and discriminator model trained for 200 epochs can be download from [here]()(Baidu Link)(*TODO File uploading*).  
+A weight file for a generator and discriminator model trained for 200 epochs can be download from [here](https://drive.google.com/file/d/1Jf_4rASdjtedA26Cs3-XJXzQ6T6drpJe/view?usp=sharing) and [here](https://drive.google.com/file/d/1voqyPbb-6yUCqZ2Vc3Z3SSlVrYDhPHSV/view?usp=sharing)(Google Drive Link).  
 ## Usage  
 ### Train  
 ```
